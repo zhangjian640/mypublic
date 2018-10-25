@@ -1,10 +1,10 @@
 {
-  "name": "mypublic",
+  "name": "mystatic",
   "version": "0.1.0",
   "description": "NodeJs Static Web server",
   "main": "src/app.js",
   "bin": {
-    "mypublic": "bin/mypublic"
+    "mystatic": "bin/mystatic"
   },
   "scripts": {
     "lint": "eslint .",
